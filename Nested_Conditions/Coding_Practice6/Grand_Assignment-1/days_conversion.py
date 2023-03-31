@@ -1,0 +1,6 @@
+n=int(input())
+year = int(n/365)
+r= int(n - (year) * 365)
+weeks = int(r/7)
+days = int(r-(weeks) * 7)
+print(str(year) +" years " +str(weeks)+" weeks " + str(days) + " days")

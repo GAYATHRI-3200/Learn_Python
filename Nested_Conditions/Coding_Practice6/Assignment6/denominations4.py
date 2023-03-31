@@ -1,0 +1,33 @@
+amt = int(input())
+n_2000 = 0
+n_500 = 0
+n_200 = 0
+n_50 = 0
+n_20 = 0
+n_5 = 0
+n_2 = 0
+n_1 = 0
+if amt >= 2000:
+    n_2000 = int(amt/2000)
+    amt = (amt % 2000)
+if amt >= 500:
+    n_500 = int(amt/500)
+    amt = (amt % 500)
+if amt >= 200:
+    n_200 = int(amt/200)
+    amt = (amt % 200)
+if amt >= 50:
+    n_50 = int(amt/50)
+    amt = (amt % 50)
+if amt >= 20:
+    n_20 = int(amt/20)
+    amt = (amt % 20)
+if amt >= 5:
+    n_5 = int(amt/5)
+    amt = (amt % 5)
+if amt >= 2:
+    n_2 = int(amt/2)
+    amt = (amt % 2)
+n_1 = amt
+
+print("2000:"+str(n_2000) + " 500:"+str(n_500) + " 200:" + str(n_200) + " 50:" + str(n_50) + " 20:" + str(n_20) + " 5:" + str(n_5) + " 2:" + str(n_2) + " 1:" + str(n_1))
