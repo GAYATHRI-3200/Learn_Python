@@ -1,0 +1,55 @@
+Software: 
+Software is a set of instructions to the hardware.
+
+Programming: 
+Programming means writing the instructions to create a software.
+
+Program:
+A program is a sequence of instructions given to a computer.
+
+Code: 
+The instructions that we write to create software is called Code.
+
+Syntax:
+Similar to Grammar rules in English, Hindi, each programming language has a unique set of rules. 
+These rules are called the Syntax of a Programming Language.
+
+Why Python:
+Python is an easy to learn, powerful programming language. 
+With Python, it is possible to create programs with minimal amount of code.
+Python executes the code line-by-line.
+
+BODMAS:
+The standard order of evaluating an expression
+Ex: (5 * 2) + (3 * 4) =>(10) + (12) =>22
+print(10 / (2 + 3)) => 2.0
+
+Ex: print("Hello World!") => Hello World!
+
+
+Variables:
+Variables are like containers for storing values.
+Values in the variables can be changed.
+
+Values:
+Consider that variables are like containers for storing information.
+In context of programming, this information is often referred to as value.
+
+Data Type: 
+In programming languages, every value or data has an associated type to it known as data type.
+
+String:
+A String is a stream of characters enclosed within quotes. or Stream of Characters
+Ex: "Gayathri", 'gayathri', '2000'
+
+Integer:
+All whole numbers (positive, negative and zero) without any fractional part come under Integers.
+Ex: 0,1,-10
+
+Float:
+Any number with a decimal point
+Ex: 20.12
+
+Boolean:
+Anything that can take one of two possible values is considered a Boolean. 
+Ex: True Or False, Yes Or No, On Or Off, 0 or 1.
